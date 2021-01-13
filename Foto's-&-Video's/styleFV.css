@@ -7,6 +7,26 @@
     position: absolute;
     right: 0px;
     top: 89px;
+    
+}
+/*foto slide */
+
+
+
+.slideshow-container{
+    position: absolute;
+    left: 175px;
+    bottom: 280px;
+    border: solid white 2px;
+    
+}
+
+.video{
+    position: absolute;
+    right: 175px;
+    bottom: 295px;
+    border: solid white 2px;
+    width: 404px;
 }
 /* Buttons */
 
