@@ -86,28 +86,7 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
     
 }
 
-/* Text */
 
-
-
-.topmid{
-    position: absolute;
-    top: 200px;
-    width: 1400px;
-    font-size: 450%;
-    font-family: 'Roboto Slab', serif;
-    text-shadow: #000 0px 0px 4px;
-    -webkit-font-smoothing: atialiased;
-}
-.ondertopmid{
-    position: absolute;
-    top: 270px;
-    width: 1400px;
-    font-size: 130%;
-    font-family: 'Roboto Slab', serif;
-    text-shadow: #000 0px 0px 4px;
-    -webkit-font-smoothing: atialiased;
-}
 
 
 
