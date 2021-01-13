@@ -76,8 +76,30 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
     border: 1px solid rgba(0, 0, 0, 0.116);}
 .btn5{
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
-   
 
+/* text */
+   
+.oo{
+    position: absolute;
+    right: 665px;
+    bottom: 65.5%;
+    border-left: white solid 2px;
+    border-right: white solid 2px;
+    border-top: white solid 2px;
+    background-color: rgba(7, 7, 7, 0.459);
+    padding: 5px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.ooo{
+    position: absolute;
+    right: 256px;
+    bottom: 40%;
+    border: solid white 2px;
+    padding: 5px;
+    background-color: rgb(7, 7, 7, 0.459);
+    font-family: 'Noto Sans JP', sans-serif;
+    
+}
 
 /* Background */
 .container{
