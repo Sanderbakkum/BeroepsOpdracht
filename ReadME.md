@@ -1,6 +1,6 @@
-Status:
-Foto's & Video's: Online/Klaar
-Homepage: Online/Klaar
-Over ons: Nog bezig
-Tickets: Online/Klaar
-Quiz: Nog bezig
+Status: <br />
+Foto's & Video's: Online/Klaar<br />
+Homepage: Online/Klaar<br />
+Over ons: Nog bezig<br />
+Tickets: Online/Klaar<br/>
+Quiz: Nog bezig<br/>
