@@ -1,0 +1,272 @@
+/* Image */
+.img-lam {
+    width: 215px;
+}
+.img-fotolam{
+    width: 100%;
+    position: absolute;
+    right: 0px;
+    top: 89px;
+}
+/* Buttons */
+
+
+
+/* Btn 2 */
+.btn2{
+    height: 39px;
+    width: 192px;
+    position: absolute;
+    left: 480px;
+    top: 24px;
+}
+.btn2{
+    background-color: #2c2f3352;
+    color: white;
+    border: 1px solid rgba(0, 0, 0, 0.116);
+}
+.btn2{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    
+}
+/* Btn 3 */
+.btn3{
+    height: 39px;
+    width: 192px;
+    position: absolute;
+    right: 550px;
+    top: 24px;
+    
+}
+.btn3{
+    background-color: #2c2f3352;
+    color: white;
+    border: 2px solid white ;
+}
+.btn3{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+/* Btn 4 */
+.btn4{
+    height: 39px;
+    width: 192px;
+    position: absolute;
+    right: 332px;
+    top: 24px;}
+
+.btn4{
+    background-color: #2c2f3352;
+    color: white;
+    border: 1px solid rgba(0, 0, 0, 0.116); }
+.btn4{
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
+/* Btn 5 */
+
+.btn5{
+    height:39px;
+    width:192px;
+    position: absolute;
+    right: 113px;
+    top: 24px;}
+
+.btn5{
+    background-color: #2c2f3352;
+    color: white;
+    border: 1px solid rgba(0, 0, 0, 0.116);}
+.btn5{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
+   
+
+
+/* Background */
+.container{
+    text-align: center;
+    color: white;
+    
+}
+
+/* Text */
+
+
+
+.topmid{
+    position: absolute;
+    top: 200px;
+    width: 1400px;
+    font-size: 450%;
+    font-family: 'Roboto Slab', serif;
+    text-shadow: #000 0px 0px 4px;
+    -webkit-font-smoothing: atialiased;
+}
+.ondertopmid{
+    position: absolute;
+    top: 270px;
+    width: 1400px;
+    font-size: 130%;
+    font-family: 'Roboto Slab', serif;
+    text-shadow: #000 0px 0px 4px;
+    -webkit-font-smoothing: atialiased;
+}
+
+
+
+
+/* Onderste Balk Links */
+.contact1{
+    position: absolute;
+    bottom: 25px;
+    left: 5px;
+    font-size: 90%;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: white;
+    margin-left: 9px;
+    border-left: white solid 5px;
+    padding-left: 5px;
+}
+.Home{
+    position: absolute;
+    bottom: 10px;
+    left: 5px;
+    font-size: 80%;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: white;
+    border-left: solid white 3px;
+    margin-left: 10px;
+    padding-left: 7px;
+    
+}
+.tickets{
+    position: absolute;
+    bottom: -5px;
+    left: 5px;
+    font-size: 80%;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: white;
+    border-left: solid white 3px;
+    margin-left: 10px;
+    padding-left: 7px;
+    
+}
+.overons{
+    position: absolute;
+    bottom: -20px;
+    left: 5px;
+    font-size: 80%;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: white;
+    border-left: solid white 3px;
+    margin-left: 10px;
+    padding-left: 7px;
+    
+}
+.fotovideo{
+    position: absolute;
+    bottom: -50px;
+    left: 5px;
+    font-size: 80%;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: white;
+    border-left: solid white 3px;
+    margin-left: 10px;
+    padding-left: 7px;
+}
+.quiz{
+    position: absolute;
+    bottom: -35px;
+    left: 5px;
+    font-size: 80%;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: white;
+    border-left: solid white 3px;
+    margin-left: 10px;
+    padding-left: 7px;
+   
+}
+.img-lam1{
+    position: absolute;
+    bottom: 55px;
+    left: 14px;
+    width: 100px;
+}
+
+/* Onderste Balk CENTER */
+.volgons{
+    position: absolute;
+    bottom: 25px;
+    left: 350px;
+    font-size: 90%;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: white;
+    margin-left: 9px;
+    border-left: white solid 5px;
+    padding-left: 5px;
+}
+.insta {
+    position: absolute;
+    bottom: -5px;
+    left: 358px;
+    width: 20px;  
+}
+.insta1 {
+    position: absolute;
+    bottom: -5px;
+    left: 380px;
+    width: 15px;  
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.fb {
+    position: absolute;
+    bottom: -30px;
+    left: 358px;
+    width: 20px;  
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.fb1 {
+    position: absolute;
+    bottom: -30px;
+    left: 380px;
+    width: 15px;  
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.mail {
+    position: absolute;
+    bottom: -25px;
+    left: 800px;
+    width: 20px;  
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.mail1 {
+    position: absolute;
+    bottom: -25px;
+    left: 825px;
+    width: 15px;  
+    font-family: 'Noto Sans JP', sans-serif;
+    color: white;
+}
+.phone {
+    position: absolute;
+    bottom: -5px;
+    left: 800px;
+    width: 20px;  
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.phone1 {
+    position: absolute;
+    bottom: -5px;
+    left: 825px;
+    width: 15px;  
+    font-family: 'Noto Sans JP', sans-serif;
+    color: white;
+}
+.bereik{
+    position: absolute;
+    bottom: 25px;
+    left: 790px;
+    font-size: 90%;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: white;
+    margin-left: 9px;
+    border-left: white solid 5px;
+    padding-left: 5px;
+}
