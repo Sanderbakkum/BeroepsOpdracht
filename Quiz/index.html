@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>quiz</title>
+<link href ="style.css" rel ="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+<script src = "main.js"></script>
+
+</head>
+
+
+<body>
+    <a href="http://31918.hosts1.ma-cloud.nl/Beroepopdracht/Homepage/index.html">
+        <img class="img-lam" src="LAM.png" alt="Lam">
+       
+        </a>
+
+<form id = "quiz" name = "quiz">
+
+<div id="1" style="display: block">
+<p class = "questions">1. Wanneer is het LAM gebouwd?</p>
+<input type = "radio" onclick="javascript:Checker();" id = "mc1" name = "question1" value = "2013"> 2013<br>
+<input type = "radio" onclick="javascript:Checker();" id = "mc11" name = "question1" value = "2014"> 2014<br>
+<input type = "radio" onclick="javascript:Checker();" id = "mc111" name = "question1" value = "2015"> 2015<br>
+</div>
+<div id="2" style="display: none">
+<p class = "questions">2. In welk jaar is Het Lam opgericht?</p>
+<input type = "radio" onclick="javascript:Checker();" id = "mc2" name = "question2" value = "2016"> 2016<br>
+<input type = "radio" onclick="javascript:Checker();" id = "mc22" name = "question2" value = "2017"> 2017<br>
+<input type = "radio" onclick="javascript:Checker();" id = "mc222" name = "question2" value = "2018"> 2018<br>
+</div>
+<div id="3" style="display: none">
+<p class = "questions">3. Met de huidige corana situatie gaan we weer over?</p>
+<input type = "radio" onclick="javascript:Checker();" id = "mc3" name = "question3" value = "20 januari "> 20 januari <br>
+<input type = "radio" onclick="javascript:Checker();" id = "mc33" name = "question3" value = "30 januari "> 30 januari <br>
+<input type = "radio" onclick="javascript:Checker();" id = "mc333" name = "question3" value = "Over langer dan een jaar"> Over langer dan een jaar<br>
+</div>
+<div id="4" style="display: none">
+<p class = "questions">4. Waar bevind museum zich?</p>
+<input type = "radio" onclick="javascript:Checker();" id = "mc4" name = "question4" value = "Lisse"> Lisse<br>
+<input type = "radio" onclick="javascript:Checker();" id = "mc44" name = "question4" value = "Amsterdam"> Amsterdam<br>
+<input type = "radio" onclick="javascript:Checker();" id = "mc444" name = "question4" value = "Bergen op Zoom"> Bergen op Zoom<br>
+</div>
+<div id="5" style="display: none">
+<p class = "questions">5. Hebben wij social media?</p>
+<input type = "radio" onclick="javascript:Checker();" id = "mc5" name = "question5" value = "Ja"> Ja<br>
+<input type = "radio" onclick="javascript:Checker();" id = "mc55" name = "question5" value = "Nee"> Nee<br>
+</div>
+<div id="6" style="display: none">
+<p class = "questions">6. Als wij open zijn, zijn wij dan de hele week open?</p>
+
+<input type = "radio" onclick="javascript:Checker();" id = "mc6" name = "question6" value = "Ja"> Ja<br>
+<input type = "radio" onclick="javascript:Checker();" id = "mc66" name = "question6" value = "Nee"> Nee<br>
+</div>
+<div id="7" style="display: none">
+<p class = "questions">7. Kan je gratis het LAM in?</p>
+
+<input type = "radio" onclick="javascript:Checker();" id = "mc7" name = "question7" value = "Ja"> Ja<br>
+<input type = "radio" onclick="javascript:Checker();" id = "mc77" name = "question7" value = "Nee"> Nee<br>
+</div>
+<div id="8" style="display: none">
+<p class = "questions">8.Heeft het LAM een restaurant/cafe?</p>
+
+<input type = "radio" onclick="javascript:Checker();" id = "mc8" name = "question8" value = "Ja"> Ja<br>
+<input type = "radio" onclick="javascript:Checker();" id = "mc88" name = "question8" value = "Nee"> Nee<br>
+</div>
+
+<input id = "button" type = "button" value = "Indienen" onclick = "check();">
+
+
+</form>
+
+<div id = "after_submit">
+<p id = "number_correct"></p>
+<p id = "message"></p>
+<img id = "picture">
+</div>
+</html>
+
+</body>
+
+
+
